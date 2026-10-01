@@ -231,3 +231,10 @@ La interfaz implementa:
 # 📄 Licencia
 
 Proyecto desarrollado con fines educativos.
+
+---
+
+# 📄 Creadores
+- Johan Moreno
+- Johan Garzon
+- Daniel Andres Bohorquez
